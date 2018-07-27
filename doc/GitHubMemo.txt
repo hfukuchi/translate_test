@@ -1,0 +1,103 @@
+GitHubメモ
+
+●リポジトリ作成
+　*Web上での作業
+　　リポジトリの作成
+　　Home -> Repositories
+　　　Newを押す
+　　　リポジトリの作成
+
+●初期設定
+　*Web上での作業
+　　リポジトリへ移動
+　　README.mdの作成
+　　　Commit
+
+　　Inshights -> Community
+　　以下の作成が推奨される
+　　　README.md
+　　　LICENSE.md
+　　　CONTRIBUTING.md
+　　　Code_of_Conduct.md
+
+　　Inshights -> Contributors
+　　　GitHubのアカウントを持つ人にアクセス権を付与できる
+
+
+●統計情報
+　*Web上での作業
+　　Insights -> Traffic
+　　　統計情報を確認する
+
+
+●新規ファイル作成１
+　*Windows上での作業
+　　フォルダへ移動
+　　フォルダを作成
+　　テキストファイルを作成
+
+　*Web上での作業
+　　Upload filesを押す
+　　テキストファイルをドラッグする
+　　コメント記入
+　　Masterブランチを選択
+　　Commitする
+
+●新規ファイル作成＆Pull Request作成１
+　*Windows上での作業
+　　フォルダへ移動
+　　フォルダを作成
+　　テキストファイルを作成
+
+　*Web上での作業
+　　Upload filesを押す
+　　テキストファイルをドラッグする
+　　コメント記入
+　　Newブランチを選択
+　　Propose Changesを押す
+　　Pull Requestが作成される
+
+
+●GitHub Desktop起動
+　*Web上での作業
+　　Clone or Downloadを押す
+　　　GitHub Desktopが自動的に起動
+　　　GitHubフォルダ内にフォルダが作成される
+
+●新規ファイル作成２
+　*Windows上での作業
+　　フォルダへ移動
+　　フォルダを作成
+　　テキストファイルを作成
+
+　*GitHub Desktopでの作業
+　　先ほど作成したテキストファイルがあることを確認
+　　Commit
+　　何もしないと、MasterにCommitされる
+　　Publish
+
+　*Web上での作業
+　　先ほど作成したテキストファイルがあることを確認
+　
+　
+●新規ファイル作成＆Pull Request作成２
+　*Windows上での作業
+　　フォルダへ移動
+　　フォルダを作成
+　　テキストファイルを作成
+
+　*GitHub Desktopでの作業
+　　先ほど作成したテキストファイルがあることを確認
+　　上の方のブランチアイコンを推す
+　　ブランチ名を作成
+　　ブランチへCommit
+　　Publish
+
+　*Web上での作業
+　　先ほど作成したブランチがあることを確認
+　　Compare & Pull requestを押す
+　　Pull Requestを作成
+
+
+
+
